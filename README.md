@@ -1,8 +1,9 @@
 
+
 ### Bot Name
 https://t.me/Onlyfa_nsbot
 
-![Bot Image]([url_to_your_image](https://raw.githubusercontent.com/aliwwwmo/Onlyf/main/Untitled-1.jpg))
+![Bot Image](https://raw.githubusercontent.com/aliwwwmo/Onlyf/main/Untitled-1.jpg)
 
 ---
 ### Installation and Setup
